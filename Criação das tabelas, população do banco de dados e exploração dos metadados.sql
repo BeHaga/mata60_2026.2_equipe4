@@ -325,10 +325,10 @@ END $$;
 
 -- Exploração dos metadados
 select *
-from pagamento
+from pagamento;
 
 select * 
-from pessoa
+from pessoa;
 
 select * 
-from inscricao
+from inscricao;
